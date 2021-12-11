@@ -3,6 +3,6 @@
     "format":".lzma",
     "main":"\\剑侠2.exe",
     "updater":"\\剑侠2.exe",
-    "url":"http://127.0.0.1/jx2update",
-    "version":"0.0.0.10"
+    "url":"https://raw.githubusercontent.com/vicoyqw/jx2/main/",
+    "version":"0.0.0.13"
 }
